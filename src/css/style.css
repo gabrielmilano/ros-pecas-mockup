@@ -304,6 +304,7 @@ button,input{font:inherit;color:inherit}
   .heroi{padding:44px 0 64px}
   .heroi__lead{font-size:17px}
   .heroi__acoes .btn{width:100%}
+  .heroi__fatos{grid-template-columns:1fr 1fr}
   .painel__corpo{grid-template-columns:1fr;padding:14px 12px 20px;border-radius:18px 18px 28px 28px}
   .painel__saida{display:none}
   .central{grid-template-columns:1fr;padding:8px}
